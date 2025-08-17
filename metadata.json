@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Adventure",
+  "description": "A dynamic, text-based adventure game powered by Gemini. Choose your setting, define your character, and embark on a unique journey where your decisions shape the story, guided by an AI Dungeon Master.",
+  "requestFramePermissions": []
+}
